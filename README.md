@@ -10,4 +10,6 @@ imutils to be installed for executing this code
 pip install imutils
 
 **#Execution**
-!mpirun -np 5 python D2N2Accel.py
+
+
+mpirun -np 5 python D2N2Accel.py
